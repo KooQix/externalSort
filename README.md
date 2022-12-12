@@ -1,3 +1,5 @@
+# Multi-threading external sort (internal if data fits in memory)
+
 ## Gensort and valsort needs to be installed (generate and validate sorted data)
 
 http://www.ordinal.com/gensort.html
@@ -30,6 +32,3 @@ Update last lines of run.sh as needed to set parameters and run:
 
     $ ./run.sh
 
-## More
-
-Performs an internal sort if data fits in memory, external sort otherwise
