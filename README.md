@@ -32,3 +32,8 @@ Update last lines of run.sh as needed to set parameters and run:
 
     $ ./run.sh
 
+
+---
+### ☕ Support
+If this saved you some time, you can buy me a coffee in crypto — non-custodial, I keep over 99% of every tip:
+👉 **[qbf.cash/@kooqix](https://qbf.cash/@kooqix)**
